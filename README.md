@@ -1,5 +1,3 @@
-# 1. Create the README.md file
-cat << 'EOF' > README.md
 # Network Intrusion Detection System (NIDS) using Suricata
 
 An end-to-end implementation of a Network Intrusion Detection and Prevention environment configured on Ubuntu Linux. This project demonstrates real-time packet inspection, custom rule detection, structured alert logging, and automated threat mitigation using iptables.
